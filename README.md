@@ -1,3 +1,4 @@
+## Background
 This project analyzes the Kaggle “Airbnb in NYC” dataset (https://www.kaggle.com/datasets/vrindakallu/new-york-dataset). <br>
 The dataset summarizes Airbnb listing activity in New York City as of January 5, 2024. <br>
 There are 20,759 rows of data. <br>
@@ -12,7 +13,7 @@ The project analyzed the following key variables to answer the question: Which A
 • Rating (average total rating) <br>
 • Number of Bedrooms • Number of Beds • Number of Bathrooms<br>
 <br>
-# METHODOLOGY: <br>
+## Methodology: <br>
 1. Clean and tidy data <br>
 2. Review the data structure and determine whether any variables need to be converted to a different data type <br>
 3. Remove variables that aren’t relevant to the analysis to remove clutter from the output <br>
