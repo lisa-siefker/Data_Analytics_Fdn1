@@ -1,7 +1,7 @@
 ## Background
 Project 1 analyzes the Kaggle “Airbnb in NYC” dataset (https://www.kaggle.com/datasets/vrindakallu/new-york-dataset). 
 The dataset summarizes Airbnb listing activity for 20,759 Airbnbs in New York City as of January 5, 2024. 
-The project analyzed the following key variables to answer the question: Which Airbnb is the best deal (i.e., the rating is above average and lowest price) in each neighborhood? <br>
+The Project 1 Data Analysis analyzed the following key variables to answer the question: Which Airbnb is the best deal (i.e., the rating is above average and lowest price) in each neighborhood? <br>
 
 • Neighborhood Group (5 unique groups) <br>
 • Neighborhood (219 unique neighborhoods) <br>
