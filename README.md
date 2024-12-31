@@ -13,7 +13,7 @@ The project analyzed the following key variables to answer the question: Which A
 • Rating (average total rating) <br>
 • Number of Bedrooms • Number of Beds • Number of Bathrooms<br>
 <br>
-## Methodology: <br>
+## Methodology <br>
 1. Clean and tidy data <br>
 2. Review the data structure and determine whether any variables need to be converted to a different data type <br>
 3. Remove variables that aren’t relevant to the analysis to remove clutter from the output <br>
