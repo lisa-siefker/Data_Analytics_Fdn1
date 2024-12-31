@@ -27,4 +27,4 @@ In Project 2, a staistical consultant answered the following research questions 
 3. Is there a significant difference in average price between Manhattan and Brooklyn Airbnbs that have 2 bedrooms and 1 bathroom? <br>
 4. Is there a significant difference in average price between Airbnbs that have average reviews that are more than four stars and Airbnbs that have average reviews that are less than 4 stars? <br>
 
-The Project 2 research paper summarizes the consultant's statistical analysis and answers to the research questions. 
+The Project 2 report summarizes the consultant's statistical analysis and answers to the research questions. 
