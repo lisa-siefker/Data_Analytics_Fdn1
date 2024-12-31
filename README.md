@@ -1,4 +1,4 @@
-This project analyzes the Kaggle “Airbnb in NYC” dataset (https://www.kaggle.com/datasets/vrindakallu/new-york-dataset). 
+This project analyzes the Kaggle “Airbnb in NYC” dataset (https://www.kaggle.com/datasets/vrindakallu/new-york-dataset). <\n>
 The dataset summarizes Airbnb listing activity in New York City as of January 5, 2024. 
 There are 20,759 rows of data. 
 The project analyzed the following key variables to answer the question: Which Airbnb is the best deal (i.e., the rating is above average and lowest price) in each neighborhood? 
