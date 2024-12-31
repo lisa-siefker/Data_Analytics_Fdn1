@@ -19,3 +19,13 @@ The project analyzed the following key variables to answer the question: Which A
 3. Remove variables that aren’t relevant to the analysis to remove clutter from the output <br>
 4. Filter data to remove rows that don’t meet criteria <br>
 5. Explore and analyze ratings, price and neighborhood information using tables, histograms, boxplots, scatterplots, and statistical summary data to determine which Airbnbs are the best deal in each neighborhood.
+
+## Statistical Analysis <br>
+In Project 2, a staistical consultant answered the following research questions regarding the Airbnb data set: <br>
+<br>
+1. Can you predict an Airbnb rating based on price per night and neighborhood/borough? <br>
+2. Can you predict the price per night of an Airbnb based on neighborhood/borough and number of bedrooms? <br>
+3. Is there a significant difference in average price between Manhattan and Brooklyn Airbnbs that have 2 bedrooms and 1 bathroom? <br>
+4. Is there a significant difference in average price between Airbnbs that have average reviews that are more than four stars and Airbnbs that have average reviews that are less than 4 stars? <br>
+<br>
+The Project 2 research paper summarizes the consultant's statistical analysis. 
